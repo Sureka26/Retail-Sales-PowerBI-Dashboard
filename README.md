@@ -21,8 +21,5 @@ Converted raw business data into a clear visual dashboard that supports data-dri
 ## Dashboard Preview
 
 ![Dashboard 1](https://github.com/user-attachments/assets/76e0bfd5-9283-4ea2-9264-fac586caa063)
-![Dashboard 1](https://github.com/user-attachments/assets/76e0bfd5-9283-4ea2-9264-fac586caa063)
-
-![Dashboard 2](https://github.com/user-attachments/assets/5a71ed28-9fb8-4024-8ec9-dc407cd9e90c)
 ![Dashboard 2](https://github.com/user-attachments/assets/5a71ed28-9fb8-4024-8ec9-dc407cd9e90c)
 
