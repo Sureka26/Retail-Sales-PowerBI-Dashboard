@@ -20,6 +20,6 @@ Converted raw business data into a clear visual dashboard that supports data-dri
 
 ## Dashboard Preview
 
-![Retail Dashboard](Dashboard1)
-![Retail Dashboard](Dashboard2)
+![Retail Dashboard](Dashboard 1)
+![Retail Dashboard](Dashboard 2)
 
