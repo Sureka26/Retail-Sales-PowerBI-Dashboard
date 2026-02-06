@@ -17,3 +17,8 @@ Superstore retail dataset covering 2014–2017 (~10,000 records)
 
 ## Outcome
 Converted raw business data into a clear visual dashboard that supports data-driven decision-making.
+
+##Dashboard Preview
+![Dashboard Screenshot](Dashboard2.jpeg)
+![Dashboard Screenshot](Dashboard1.jpeg)
+
