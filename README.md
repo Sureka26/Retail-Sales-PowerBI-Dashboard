@@ -1,4 +1,4 @@
-# Retail Sales Power BI Dashboard
+![Dashboard 2](https://github.com/user-attachments/assets/01a4403e-ed0a-4e18-ab2e-5ac73a45b6a2)![Dashboard 2](https://github.com/user-attachments/assets/01a4403e-ed0a-4e18-ab2e-5ac73a45b6a2)# Retail Sales Power BI Dashboard
 
 I built this project to analyze 4 years of retail sales data using Power BI.  
 The goal was to understand sales trends, regional performance, and forecast future growth using time-series analysis.
@@ -20,6 +20,7 @@ Converted raw business data into a clear visual dashboard that supports data-dri
 
 ## Dashboard Preview
 
-![Dashboard 1](https://github.com/user-attachments/assets/76e0bfd5-9283-4ea2-9264-fac586caa063)
 ![Dashboard 2](https://github.com/user-attachments/assets/5a71ed28-9fb8-4024-8ec9-dc407cd9e90c)
+![Dashboard 1](https://github.com/user-attachments/assets/76e0bfd5-9283-4ea2-9264-fac586caa063)
+
 
