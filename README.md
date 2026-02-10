@@ -24,5 +24,4 @@ Superstore retail dataset (2014–2017)
 Converted raw business data into a clear visual dashboard to support data-driven decision making.
 
 ## Dashboard Preview
-![dashboard Preview](dashboard.png2)
-![dashboard Preview](dashboard.png1)
+![dashboard Preview](dashboard.png)
